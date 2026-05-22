@@ -1,7 +1,6 @@
 Sistema de Gestión de Biblioteca en Terminal
 
-El Sistema de Biblioteca es un script de automatización en Python diseñado para correr directamente en la consola. Este proyecto simula la lógica real detrás del control de inventario de libros y la gestión de usuarios de una biblioteca, ahora con una interfaz gráfica en terminal mucho más viva y dinámica
-
+El Sistema de Biblioteca es un script de automatización en Python diseñado para correr directamente en la consola. Este proyecto simula la lógica real detrás del control de inventario de libros y la gestión de usuarios de una biblioteca
 Características Principales <br>
 El sistema está construido bajo el paradigma de Programación Orientada a Objetos (POO) y ofrece las siguientes funcionalidades:
 
