@@ -1,6 +1,33 @@
-Documentación de Pruebas. <br>
-Prueba 1. <br>
-Interfaz de MENÚ: <br>
-Descripción: El menú se muestra al correr el programa. <br>
+# 📚 Sistema de Gestión de Biblioteca en Terminal
 
-<img width="493" height="217" alt="87f65fbd413c8d6180b5df59c4b44c83" src="https://github.com/user-attachments/assets/66724562-ff65-44e6-8ab9-bf1470a91f7d" />
+¡Bienvenido al **Sistema de Biblioteca**! Un script de automatización en Python diseñado para correr directamente en la consola. Este proyecto simula la lógica real detrás del control de inventario de libros y la gestión de usuarios de una biblioteca, ahora con una interfaz gráfica en terminal mucho más viva y dinámica.
+
+---
+
+## 🚀 Características Principales
+
+El sistema está construido bajo el paradigma de **Programación Orientada a Objetos (POO)** y ofrece las siguientes funcionalidades:
+
+* **📦 Gestión de Inventario:** Registro de libros con control de duplicados mediante código **ISBN**.
+* **👥 Registro de Usuarios:** Control de miembros de la biblioteca utilizando identificadores únicos (ID).
+* **🔄 Flujo de Préstamos y Devoluciones:** Validación en tiempo real de copias disponibles y asignación dinámica de libros a los usuarios correspondientes.
+* **🔍 Consultas Detalladas:** Búsqueda individual de libros o listados globales para auditar quién tiene prestado cada ejemplar.
+* **🎨 Interfaz Colorida:** Integración completa con `colorama` para alertas visuales semánticas (Verde para éxitos, Rojo para errores, Cian/Azul para menús).
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+* **Python 3.x** - Lenguaje principal de desarrollo.
+* **Colorama** - Librería para el coloreado y estilizado del texto en la terminal.
+
+---
+
+## 📦 Instalación y Configuración
+
+Sigue estos sencillos pasos para clonar el repositorio y ejecutar el sistema en tu máquina local:
+
+### 1. Clonar el repositorio
+```bash
+git clone [https://github.com](https://github.com) tu-usuario/tu-repositorio.git
+cd tu-repositorio
