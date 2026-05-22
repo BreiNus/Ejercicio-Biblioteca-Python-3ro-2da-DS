@@ -10,5 +10,5 @@ El sistema está construido bajo el paradigma de Programación Orientada a Objet
 -Flujo de Préstamos y Devoluciones: Validación en tiempo real de copias disponibles y asignación dinámica de libros a los usuarios correspondientes<br>
 -Consultas Detalladas: Búsqueda individual de libros o listados globales para auditar quién tiene prestado cada ejemplar<br>
 
-Tecnologías Utilizadas <br>
+Tecnologías Utilizadas: <br>
 -Python
