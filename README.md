@@ -11,4 +11,4 @@ El sistema está construido bajo el paradigma de Programación Orientada a Objet
 -Consultas Detalladas: Búsqueda individual de libros o listados globales para auditar quién tiene prestado cada ejemplar<br>
 
 Tecnologías Utilizadas
-Python - Lenguaje principal de desarrollo.
+Python
