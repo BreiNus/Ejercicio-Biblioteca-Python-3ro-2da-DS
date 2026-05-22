@@ -14,14 +14,13 @@ El sistema está construido bajo el paradigma de **Programación Orientada a Obj
 * **Interfaz Colorida:** Integración completa con `colorama` para alertas visuales semánticas (Verde para éxitos, Rojo para errores, Cian/Azul para menús).
 
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * **Python 3.x** - Lenguaje principal de desarrollo.
 * **Colorama** - Librería para el coloreado y estilizado del texto en la terminal.
 
----
 
-##Instalación y Configuración
+## Instalación y Configuración
 
 Sigue estos sencillos pasos para clonar el repositorio y ejecutar el sistema en tu máquina local:
 
